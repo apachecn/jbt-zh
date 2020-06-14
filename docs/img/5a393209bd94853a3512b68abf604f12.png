@@ -84,14 +84,14 @@ gtag('config', 'UA-34493892-1', {"anonymize_ip":true} );
 Scroll to top	</div>
 </a>
 <div class="clb-social">
-<ul class="clb-social-holder font-titles ">
+
 <li class="clb-social-holder-follow">Follow Us</li>
 <li class="clb-social-holder-dash">&ndash;</li>
 <li><a target="_blank" href=" https://www.facebook.com/javabeginnerstutorial" class="facebook">Fb.</span></a></li>
 <li><a target="_blank" href=" https://twitter.com/BeginnersJava" class="twitter">Tw.</span></a></li>
 <li><a target="_blank" href=" https://github.com/JBTAdmin" class="github">Gh.</span></a></li>
 <li><a target="_blank" href=" https://www.youtube.com/c/javabeginnerstutorial" class="youtube">Yt.</span></a></li>
-</ul>
+
 </div>
 <div class="circle-cursor circle-cursor--outer"></div>
 <div class="circle-cursor circle-cursor--inner"></div>
@@ -161,44 +161,44 @@ Scroll to top	</div>
 <div class="mbl-overlay-container">
 
 <div id="mega-menu-wrap" class="main-nav-container">
-<ul id="primary-menu" class="menu"><li id="nav-menu-item-14656-5ee07ad96f4cd" class="mega-menu-item nav-item menu-item-depth-0 "><a href="https://javabeginnerstutorial.com/core-java-tutorial/" class="menu-link main-menu-link item-title"><span>Java</span></a></li>
+<li id="nav-menu-item-14656-5ee07ad96f4cd" class="mega-menu-item nav-item menu-item-depth-0 "><a href="https://javabeginnerstutorial.com/core-java-tutorial/" class="menu-link main-menu-link item-title"><span>Java</span></a></li>
 <li id="nav-menu-item-14660-5ee07ad96f503" class="mega-menu-item nav-item menu-item-depth-0 "><a href="https://javabeginnerstutorial.com/selenium/selenium-tutorial/" class="menu-link main-menu-link item-title"><span>Selenium</span></a></li>
 <li id="nav-menu-item-14658-5ee07ad96f526" class="mega-menu-item nav-item menu-item-depth-0 "><a href="https://javabeginnerstutorial.com/hibernate-tutorial-2/" class="menu-link main-menu-link item-title"><span>Hibernate</span></a></li>
 <li id="nav-menu-item-14899-5ee07ad96f546" class="mega-menu-item nav-item menu-item-depth-0 "><a href="https://javabeginnerstutorial.com/python-tutorial-for-beginners/" class="menu-link main-menu-link item-title"><span>Python</span></a></li>
 <li id="nav-menu-item-14932-5ee07ad96f565" class="mega-menu-item nav-item menu-item-depth-0 has-submenu "><a href="https://javabeginnerstutorial.com/other-tutorial/" class="menu-link main-menu-link item-title"><span>Tutorial</span><div class="has-submenu-icon"><i class="ion ion-md-add"></i></div></a>
-<div class="sub-nav"><ul class="menu-depth-1 sub-menu sub-nav-group">
+<div class="sub-nav">
 <li id="nav-menu-item-14787-5ee07ad96f583" class="mega-menu-item sub-nav-item menu-item-depth-1 "><a href="https://javabeginnerstutorial.com/jsp-tutorial/" class="menu-link sub-menu-link"><span>JSP</span></a></li>
 <li id="nav-menu-item-14933-5ee07ad96f59c" class="mega-menu-item sub-nav-item menu-item-depth-1 "><a href="https://javabeginnerstutorial.com/spring-framework-tutorial/" class="menu-link sub-menu-link"><span>Spring</span></a></li>
 <li id="nav-menu-item-14931-5ee07ad96f5b3" class="mega-menu-item sub-nav-item menu-item-depth-1 "><a href="https://javabeginnerstutorial.com/design-patterns-in-java/" class="menu-link sub-menu-link"><span>Design Patterns</span></a></li>
 <li id="nav-menu-item-14532-5ee07ad96f5ca" class="mega-menu-item sub-nav-item menu-item-depth-1 "><a href="https://javabeginnerstutorial.com/oracle-tutorial/" class="menu-link sub-menu-link"><span>Oracle</span></a></li>
 <li id="nav-menu-item-14934-5ee07ad96f5e0" class="mega-menu-item sub-nav-item menu-item-depth-1 "><a href="https://javabeginnerstutorial.com/interview-question/core-java-interview-questions-2/" class="menu-link sub-menu-link"><span>Interview questions</span></a></li>
-</ul></div>
+</div>
 </li>
-</ul> </div>
+ </div>
 
 <div class="copyright">
 <a href="https://javabeginnerstutorial.com/disclaimer/">Terms of Use</a> / <a href="https://javabeginnerstutorial.com/privacy-policy-2/">Privacy Policy</a> / <a href="https://javabeginnerstutorial.com/sitemap_index.xml"> Sitemap </a> / <a href="https://javabeginnerstutorial.com/about-us/">About Us</a> / <a href="https://javabeginnerstutorial.com/contact-us/">Contact Us</a> / <b>Partner Site</b> <a href="https://ipoweruser.com/">iPowerUser</a> <br>
  crafted with <i class="pw-icon-heart"></i> <em>by</em> JBT Team <i class="pw-icon-copyright"> / Copyright .</i> <a href="https://javabeginnerstutorial.com"> JBT</a> </div>
 <div class="clb-social">
-<ul class="clb-social-holder font-titles ">
+
 <li class="clb-social-holder-follow">Follow Us</li>
 <li class="clb-social-holder-dash">&ndash;</li>
 <li><a target="_blank" href=" https://www.facebook.com/javabeginnerstutorial" class="facebook">Fb.</span></a></li>
 <li><a target="_blank" href=" https://twitter.com/BeginnersJava" class="twitter">Tw.</span></a></li>
 <li><a target="_blank" href=" https://github.com/JBTAdmin" class="github">Gh.</span></a></li>
 <li><a target="_blank" href=" https://www.youtube.com/c/javabeginnerstutorial" class="youtube">Yt.</span></a></li>
-</ul>
+
 </div>
 
 </div>
 </div>
 </nav>
-<ul class="menu-optional">
+
 <li class="btn-optional-holder">
 <a href="https://javabeginnerstutorial.com/write-for-jbt/" class="btn btn-small btn-optional">
 Write for JBT	</a>
 </li>
-</ul>
+
 <div class="close-menu"></div>
 </div>
 </div>
@@ -213,14 +213,14 @@ Write for JBT	</a>
 </div>
 
 <div class="clb-hamburger-nav-holder">
-<ul id="secondary-menu" class="menu"><li id="nav-menu-item-14517-5ee07ad9716ef" class="mega-menu-item nav-item menu-item-depth-0 "><a href="https://docs.oracle.com/javase/10/docs/api/overview-summary.html" class="menu-link main-menu-link item-title"><span>Java 10 API</span></a></li>
+<li id="nav-menu-item-14517-5ee07ad9716ef" class="mega-menu-item nav-item menu-item-depth-0 "><a href="https://docs.oracle.com/javase/10/docs/api/overview-summary.html" class="menu-link main-menu-link item-title"><span>Java 10 API</span></a></li>
 <li id="nav-menu-item-14518-5ee07ad971733" class="mega-menu-item nav-item menu-item-depth-0 "><a href="https://www.seleniumhq.org/" class="menu-link main-menu-link item-title"><span>Selenium Home</span></a></li>
 <li id="nav-menu-item-14519-5ee07ad971756" class="mega-menu-item nav-item menu-item-depth-0 "><a href="https://projects.spring.io/spring-framework/" class="menu-link main-menu-link item-title"><span>Spring Home</span></a></li>
 <li id="nav-menu-item-14520-5ee07ad971775" class="mega-menu-item nav-item menu-item-depth-0 "><a href="https://docs.spring.io/spring/docs/5.0.7.BUILD-SNAPSHOT/spring-framework-reference/" class="menu-link main-menu-link item-title"><span>Spring Documentation</span></a></li>
 <li id="nav-menu-item-14521-5ee07ad971795" class="mega-menu-item nav-item menu-item-depth-0 "><a href="http://hibernate.org/" class="menu-link main-menu-link item-title"><span>Hibernate</span></a></li>
 <li id="nav-menu-item-14522-5ee07ad9717d4" class="mega-menu-item nav-item menu-item-depth-0 "><a href="http://hibernate.org/orm/documentation/5.2/" class="menu-link main-menu-link item-title"><span>Hibernate Documenation</span></a></li>
 <li id="nav-menu-item-14523-5ee07ad9717f4" class="mega-menu-item nav-item menu-item-depth-0 "><a href="http://hibernate.org/orm/documentation/5.2/" class="menu-link main-menu-link item-title"><span>Spring Boot Documenation</span></a></li>
-</ul> </div>
+ </div>
 
 <div class="clb-hamburger-nav-details">
 <div class="socialbar small outline inverse">
@@ -272,25 +272,25 @@ Tell us what you are looking for:
 <div class="page-container">
 <div class="widgets vc_row">
 <div class="vc_col-lg-4 vc_col-sm-6 widgets-column">
-<ul><li id="custom_html-4" class="widget_text widget widget_custom_html"><h3 class="title widget-title">About</h3><div class="textwidget custom-html-widget">JBT provides an easy tutorial for beginners to learn online. This journey started in 2010 with an article on Core Java topic. Now we are increasing our database of tutorial adding the new article on new technology day by day.</div></li>
-</ul>
+<li id="custom_html-4" class="widget_text widget widget_custom_html"><h3 class="title widget-title">About</h3><div class="textwidget custom-html-widget">JBT provides an easy tutorial for beginners to learn online. This journey started in 2010 with an article on Core Java topic. Now we are increasing our database of tutorial adding the new article on new technology day by day.</div></li>
+
 </div>
 <div class="vc_col-lg-4 vc_col-sm-6 widgets-column">
-<ul><li id="custom_html-2" class="widget_text widget widget_custom_html"><h3 class="title widget-title">Tutorial</h3><div class="textwidget custom-html-widget"><a href="https://javabeginnerstutorial.com/core-java-tutorial/">Core Java Tutorial</a><br />
+<li id="custom_html-2" class="widget_text widget widget_custom_html"><h3 class="title widget-title">Tutorial</h3><div class="textwidget custom-html-widget"><a href="https://javabeginnerstutorial.com/core-java-tutorial/">Core Java Tutorial</a><br />
 <a href="https://javabeginnerstutorial.com/selenium/selenium-tutorial/">Selenium Tutorial</a><br />
 <a href="https://javabeginnerstutorial.com/hibernate-tutorial-2/">Hibernate Tutorial</a><br />
 <a href="https://javabeginnerstutorial.com/vue-js/what-is-vuejs/">Vue Js Tutorial</a><br />
 <a href="https://javabeginnerstutorial.com/category/spring-boot/">Spring Boot Tutorial</a><br /></div></li>
-</ul>
+
 </div>
 <div class="vc_col-lg-4 vc_col-sm-6 widgets-column">
-<ul><li id="custom_html-3" class="widget_text widget widget_custom_html"><h3 class="title widget-title">Categories</h3><div class="textwidget custom-html-widget"><a href="https://javabeginnerstutorial.com/category/core-java-tutorial/">Core Java</a><br />
+<li id="custom_html-3" class="widget_text widget widget_custom_html"><h3 class="title widget-title">Categories</h3><div class="textwidget custom-html-widget"><a href="https://javabeginnerstutorial.com/category/core-java-tutorial/">Core Java</a><br />
 <a href="https://javabeginnerstutorial.com/category/spring-boot/">Spring Boot</a><br />
 <a href="https://javabeginnerstutorial.com/category/vue-js/">Vue Js</a><br />
 <a href="https://javabeginnerstutorial.com/category/python-tutorial/">Python</a><br />
 <a href="https://javabeginnerstutorial.com/category/selenium/">Selenium</a><br />
 <a href="https://javabeginnerstutorial.com/category/hibernate/">Hibernate</a><br /></div></li>
-</ul>
+
 </div>
 </div>
 </div>
